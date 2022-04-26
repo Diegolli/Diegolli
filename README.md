@@ -20,6 +20,10 @@
   <img align="center" alt="Diego-C" height="30" width="100" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
 </div>
 
+  #### Frameworks
+<div style="display: inline_block">
+  <img align="center" alt="Diego-selenium" height="30" width="100" src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white">
+ 
  #### HyperText
   <div style="display: inline_block">
   <img align="center" alt="Diego-html" height="30" width="100" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
