@@ -24,7 +24,23 @@
   <div style="display: inline_block">
   <img align="center" alt="Diego-html" height="30" width="100" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
   <img align="center" alt="Diego-css" height="30" width="100" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
+  <img align="center" alt="Diego-bootstrap" height="30" width="100" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
+  <img align="center" alt="Diego-wordpress" height="30" width="100" src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white">
 </div>
+ 
+ <!--
+ #### Software
+
+ <div style="display: inline_block">
+  <img align="center" alt="Diego-git" height="30" width="100" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
+  <img align="center" alt="Diego-pycharm" height="30" width="100" src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green">
+  <img align="center" alt="Diego-sublime" height="30" width="100" src="https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important">
+  <img align="center" alt="Diego-git" height="30" width="100" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
+  <img align="center" alt="Diego-git" height="30" width="100" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
+  <img align="center" alt="Diego-git" height="30" width="100" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white">
+  <img align="center" alt="Diego-vs" height="30" width="100" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+</div>
+-->
   
 #### Contato
 <div> 
