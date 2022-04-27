@@ -12,12 +12,14 @@
   <img align="center" alt="Diego-Windows" height="30" width="100" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
   <img align="center" alt="Diego-Ubunto" height="30" width="100" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
   <img align="center" alt="Diego-Linux" height="30" width="100" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+  <img align="center" alt="Diego-Linux" height="30" width="100" src="https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white">
 </div>
-  
+
 #### Programação
 <div style="display: inline_block">
   <img align="center" alt="Diego-Python" height="30" width="100" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
   <img align="center" alt="Diego-C" height="30" width="100" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
+   <img align="center" alt="Diego-C" height="30" width="100" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 </div>
 
   #### Frameworks
